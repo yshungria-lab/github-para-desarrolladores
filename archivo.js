@@ -1,2 +1,2 @@
-alert("Hola Yojan");
+alert("Hola Yojan Hungría");
 console.log("cambios en el archivo")
